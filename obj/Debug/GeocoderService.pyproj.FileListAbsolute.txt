@@ -1,0 +1,1 @@
+C:\Users\Administrator\source\repos\GeocoderService\obj\Debug\GeocoderService.pyproj.CoreCompileInputs.cache
