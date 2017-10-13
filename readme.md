@@ -12,7 +12,8 @@
 
  1) git clone this project to a new directory
  2) prepare a python 3.6 environment
- 3) in the shell, within the said environment, run: python GeocoderService/runserver.py
+ 3) install required modules listed in requirements.txt
+ 4) in the shell, within the said environment, run: python GeocoderService/runserver.py
 
 * **URL**
 
